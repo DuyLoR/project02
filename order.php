@@ -96,7 +96,7 @@
             <div class="row">
                 <div class="col justify-content-center d-flex pb-4">
                     <fieldset style=" width: 540px;">
-                        <legend>Selected Food</legend>
+                        <legend>Delivery Details</legend>
                         <div class="card mb-3 p-2" style="max-width: 540px;">
                             <div class="fw-bold mt-2">Full Name</div>
                             <input type="text" class="" placeholder="E.g. duylor">
@@ -107,7 +107,7 @@
                             <div class="fw-bold mt-2">Address</div>
                             <textarea name="address" class="" rows="10"
                                 placeholder="E.g. Street, City, Country"></textarea>
-                            <button type="button" class="btn btn-danger w-25 mt-4">Danger</button>
+                            <button type="button" class="btn btn-danger w-25 mt-4">Confirm Order</button>
                         </div>
                 </div>
             </div>
